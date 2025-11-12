@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-Started to look at using `clamp()` for font sizing. I used [this calculator](hhtps://royalfig.github.io/fluid-typography-calculator/) to help with the preferred font-sizing. I also having tried to use more responsive units, such as 'rem', within my code.
+Started to look at using `clamp()` for font sizing. I used [this calculator](https://royalfig.github.io/fluid-typography-calculator/) to help with the preferred font-sizing. I also having tried to use more responsive units, such as 'rem', within my code.
 
 ### Continued development
 
